@@ -1,0 +1,128 @@
+<div class="row">
+    <div class="col-sm-2">
+        @ViewBag.Jugadores[0].Nombre
+        <table class="table-active">
+            <thead>
+            <tr>
+
+                <th>Numero</th>
+                <th>Tipo</th>
+          
+            </tr>
+            </thead>
+            @foreach (var item in @ViewBag.Jugador1)
+            {
+                <tr>
+
+                    <td>@item.Numero</td>
+                    <td>@item.tipoCarta</td>
+                    
+                </tr>
+            }
+
+        </table>
+        <h4>Puntaje: @ViewBag.Jugadores[0].Puntaje</h4>
+    </div>
+    <div class="col-sm-2">
+        @ViewBag.Jugadores[1].Nombre
+        <table class="table-active">
+            <thead>
+            <tr>
+
+                <th>Numero</th>
+                <th>Tipo</th>
+                
+            </tr>
+            </thead>
+            @foreach (var item in @ViewBag.Jugador2)
+            {
+                <tr>
+
+                    <td>@item.Numero</td>
+                    <td>@item.tipoCarta</td>
+                 
+                </tr>
+            }
+
+        </table>
+         <h4>Puntaje: @ViewBag.Jugadores[1].Puntaje</h4>
+    </div>
+    <div class="col-sm-2">
+        @ViewBag.Jugadores[2].Nombre
+        <table class="table-active">
+            <thead>
+            <tr>
+
+                <th>Numero</th>
+                <th>Tipo</th>
+                
+            </tr>
+            </thead>
+            @foreach (var item in @ViewBag.Jugador3)
+            {
+                <tr>
+
+                    <td>@item.Numero</td>
+                    <td>@item.tipoCarta</td>
+               
+                </tr>
+            }
+
+        </table>
+         <h4>Puntaje: @ViewBag.Jugadores[2].Puntaje</h4>
+    </div>
+    <div class="col-sm-2">
+        @ViewBag.Jugadores[3].Nombre
+        <table class="table-active">
+            <thead>
+            <tr>
+
+                <th>Numero</th>
+                <th>Tipo</th>
+               
+            </tr>
+            </thead>
+            @foreach (var item in @ViewBag.Jugador4)
+            {
+                <tr>
+
+                    <td>@item.Numero</td>
+                    <td>@item.tipoCarta</td>
+                    
+                </tr>
+            }
+
+        </table>
+         <h4>Puntaje: @ViewBag.Jugadores[3].Puntaje</h4>
+    </div>
+    <div class="col-sm-2">
+        @ViewBag.Jugadores[4].Nombre
+        <table class="table-active">
+            <thead>
+            <tr>
+
+                <th>Numero</th>
+                <th>Tipo</th>
+               
+            </tr>
+            </thead>
+            @foreach (var item in @ViewBag.Jugador5)
+            {
+                <tr>
+
+                    <td>@item.Numero</td>
+                    <td>@item.tipoCarta</td>
+                    
+                </tr>
+            }
+
+        </table>
+         <h4>Puntaje: @ViewBag.Jugadores[4].Puntaje</h4>
+    </div>
+</div>
+<h1 style="color: red">@ViewBag.Mensaje</h1>
+@foreach (var item in @ViewBag.JugadoresGanadores)
+{
+    <h2>@item.Nombre con el puntaje de @item.Puntaje</h2>
+    
+}

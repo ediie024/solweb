@@ -21,12 +21,19 @@ namespace SimulacionPoker.Controllers
 
         public IActionResult Index()
         {
+            
+      
+         
+            return View();
+        }
+
+        public IActionResult DetalleCartas(string Nombre1,string Nombre2,string Nombre3,string Nombre4,string Nombre5)
+        {
             List<string> nueva = new List<string>();
-            nueva.Add("juan1");
-            nueva.Add("juan2");
-            nueva.Add("juan3");
-            nueva.Add("juan4");
-            nueva.Add("juan5");
+            nueva.Add(Nombre1); nueva.Add(Nombre2); nueva.Add(Nombre3); nueva.Add(Nombre4); nueva.Add(Nombre5);
+            var jugadores = Jugadores(nueva);
+            
+            
             var baraja = AsignarCartasJugadores();
             var jugador1 = baraja.Where(o => o.IdUsuario == 1).ToList();
             var jugador2 = baraja.Where(o => o.IdUsuario == 2).ToList();
@@ -39,36 +46,28 @@ namespace SimulacionPoker.Controllers
             ViewBag.Jugador3 = jugador3;
             ViewBag.Jugador4 = jugador4;
             ViewBag.Jugador5 = jugador5;
-            var respuesta1= puntaje(jugador1);
-            var respuesta2=puntaje(jugador2);
-            var respuesta3=puntaje(jugador3);
-            var respuesta4=puntaje(jugador4);
-            var respuesta5=puntaje(jugador5);
-            Console.WriteLine("puntaje del jugador uno es "+respuesta1);
-            Console.WriteLine("puntaje del jugador uno es "+respuesta2);
-            Console.WriteLine("puntaje del jugador uno es "+respuesta3);
-            Console.WriteLine("puntaje del jugador uno es "+respuesta4);
-            Console.WriteLine("puntaje del jugador uno es "+respuesta5);
-            var jugadores = Jugadores(nueva);
-            jugadores[0].Puntaje = respuesta1;
-            jugadores[1].Puntaje = respuesta2;
-            jugadores[2].Puntaje = respuesta3;
-            jugadores[3].Puntaje = respuesta4;
-            jugadores[4].Puntaje = respuesta5;
+         
+            jugadores[0].Puntaje = puntaje(jugador1);
+            jugadores[1].Puntaje = puntaje(jugador2);
+            jugadores[2].Puntaje = puntaje(jugador3);
+            jugadores[3].Puntaje = puntaje(jugador4);
+            jugadores[4].Puntaje = puntaje(jugador5);
             Console.WriteLine("Jugador ganador");
             int contador = 0;
             var ValorMaximoPuntaje = jugadores.Max(o => o.Puntaje);
             var JugadoresGanadores = jugadores.Where(o => o.Puntaje == ValorMaximoPuntaje).ToList();
+            @ViewBag.JugadoresGanadores = JugadoresGanadores;
             if (JugadoresGanadores.Count>1)
             {
-                Console.WriteLine("Existe un empate de los siguientes jugadores ");
+                ViewBag.Mensaje = "Felicitaciones a los ganadores: ";
             }
-            foreach (var item in JugadoresGanadores)
+            else
             {
-                Console.WriteLine(item.Nombre+" con el puntaje de "+item.Puntaje);
+                ViewBag.Mensaje = "Felicitaciones al unico ganador: ";
             }
-         
-            return View(baraja);
+ 
+            @ViewBag.Jugadores = jugadores;
+            return View();
         }
 
         public List<Carta> AsignarBaraja()
