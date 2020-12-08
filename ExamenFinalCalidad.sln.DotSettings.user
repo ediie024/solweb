@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=89614d54_002D197c_002D44f7_002Db612_002D7bab26319d33/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanGanaConEscaleraReal #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.JuanGanaConEscaleraReal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9fb79199_002Dac51_002D49b5_002Dad0e_002D2245269c9b55/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JuanGanaConEscaleraReal #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.MariaGana&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb4bdb21_002Df6d0_002D46e0_002Db018_002De2e3eeab07ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanGanaConEscaleraReal #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.JuanGanaConEscaleraReal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb942583_002D80af_002D4b89_002D9b9e_002D16ff702e194c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanGanaConEscaleraReal #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.JuanGanaConEscaleraReal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fdf0906a_002Df4f1_002D4156_002D9c36_002De1cea57bd61d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanGanaConEscaleraReal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.JuanGanaConEscaleraReal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe5414d3_002D3152_002D4309_002D802c_002Dd5c5fef33e79/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanGanaConEscaleraReal #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4272ADE-481E-4C5F-B010-21F268F45D84::.NETCoreApp,Version=v5.0::SimulacionPokerTests.TestAlgoritmo.AlgoritmosTest.JuanGanaConEscaleraReal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

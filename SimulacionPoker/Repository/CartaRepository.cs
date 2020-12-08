@@ -11,6 +11,7 @@ namespace SimulacionPoker.Repository
         public List<Carta> AsignarBarajaJugador();
         public List<Carta> CrearBaraja();
         public List<string> TipoCarta();
+        public int Puntajemaximo(List<Usuario> jugadores);
     }
 
     public class CartaRepository : ICartaService
@@ -402,6 +403,13 @@ namespace SimulacionPoker.Repository
             tipoDeCarta.Add("♠");
             tipoDeCarta.Add("♣");
             return tipoDeCarta;
+        }
+
+        public int Puntajemaximo(List<Usuario> jugadores)
+        {
+            var jugadores1 = jugadores.Select(o => o.Puntaje).ToList();
+            var puntajemasximo = jugadores1.Max();
+            return puntajemasximo;
         }
     }
 }

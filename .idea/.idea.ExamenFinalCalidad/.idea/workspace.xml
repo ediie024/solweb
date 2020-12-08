@@ -5,6 +5,9 @@
     <projectFile>TestProject1/TestProject1.csproj</projectFile>
     <projectFile>ExamenFinalCalidadTest/ExamenFinalCalidadTest.csproj</projectFile>
     <projectFile>SimulacionPokerTest/SimulacionPokerTest.csproj</projectFile>
+    <projectFile>SimuladorPokerTest/SimuladorPokerTest.csproj</projectFile>
+    <projectFile>TestProject2/TestProject2.csproj</projectFile>
+    <projectFile>SimulacionPokerTests/SimulacionPokerTests.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -25,7 +28,229 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3877994a-3237-48ca-a912-ec7e9b35054a" name="Default Changelist" comment="version 1.4" />
+    <list default="true" id="3877994a-3237-48ca-a912-ec7e9b35054a" name="Default Changelist" comment="version 1.4">
+      <change afterPath="$PROJECT_DIR$/ExamenFinalCalidad.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/SimulacionPoker.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/netcoreapp5.0/ref/SimulacionPoker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/JuegoDePoker/DetalleCartas.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/JuegoDePoker/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/SimulacionPoker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/ref/SimulacionPoker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/staticwebassets/SimulacionPoker.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/netcoreapp5.0/staticwebassets/SimulacionPoker.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTest/PruebasUnitarias/AlgoritmoTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/Debug/netcoreapp3.1/SimulacionPokerTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/SimulacionPokerTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/TestAlgoritmo/AlgoritmosTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.DotNet.InternalAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/NuGet.Frameworks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPoker.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPoker.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPoker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPoker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPoker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPokerTests.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPokerTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPokerTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPokerTests.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/SimulacionPokerTests.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/nunit.engine.api.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/nunit.engine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ref/SimulacionPokerTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/testhost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/bin/Debug/netcoreapp5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp3.1/SimulacionPokerTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/SimulacionPokerTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/Debug/netcoreapp5.0/ref/SimulacionPokerTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/SimulacionPokerTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/SimulacionPokerTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/SimulacionPokerTests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionPokerTests/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/SimuladorPokerTest.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/Debug/netcoreapp3.1/SimuladorPokerTest.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/SimuladorPokerTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/SimuladorPokerTest.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/SimuladorPokerTest.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimuladorPokerTest/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/TestProject2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/TestProject2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/TestProject2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/TestProject2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExamenFinalCalidad/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExamenFinalCalidad/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExamenFinalCalidad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExamenFinalCalidad/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenFinalCalidad.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenFinalCalidad.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/Controllers/JuegoDePokerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/Controllers/JuegoDePokerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/Models/Carta.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/Models/Carta.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/Models/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/Models/Usuario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/Repository/CartaRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/Repository/CartaRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/Repository/UsuarioRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/Repository/UsuarioRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/SimulacionPoker.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/SimulacionPoker.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/bin/Debug/net5.0/SimulacionPoker.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/Debug/net5.0/SimulacionPoker.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/SimulacionPoker.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPoker/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPoker/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/SimulacionPokerTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/SimulacionPokerTest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SimuladorPokerTest/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/Debug/netcoreapp3.1/SimulacionPokerTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/Debug/netcoreapp3.1/SimulacionPokerTest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/SimulacionPokerTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/SimulacionPokerTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/SimulacionPokerTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/SimulacionPokerTest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimulacionPokerTest/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +260,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimuladorPokerTest/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject2/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ExamenFinalCalidadTest/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimulacionPokerTest/PruebasUnitarias/AlgoritmoTest.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SimulacionPoker/Models/Carta.cs" />
         <option value="$PROJECT_DIR$/SimulacionPoker/Models/ValorCarta.cs" />
-        <option value="$PROJECT_DIR$/SimulacionPoker/Models/Usuario.cs" />
-        <option value="$PROJECT_DIR$/SimulacionPoker/Repository/UsuarioRepository.cs" />
         <option value="$PROJECT_DIR$/SimulacionPoker/Startup.cs" />
-        <option value="$PROJECT_DIR$/SimulacionPoker/Repository/CartaRepository.cs" />
         <option value="$PROJECT_DIR$/SimulacionPoker/Views/JuegoDePoker/Index.cshtml" />
-        <option value="$PROJECT_DIR$/SimulacionPoker/Controllers/JuegoDePokerController.cs" />
         <option value="$PROJECT_DIR$/SimulacionPoker/Views/JuegoDePoker/DetalleCartas.cshtml" />
+        <option value="$PROJECT_DIR$/SimulacionPokerTest/PruebasUnitarias/PuebasUnitariasAlgoritmo.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPokerTest/PruebasUnitarias/TestAlgoritmo.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPokerTest/PruebasUnitarias/AlgoritmoTest.cs" />
+        <option value="$PROJECT_DIR$/SimuladorPokerTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPokerTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPoker/Models/Carta.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPoker/Models/Usuario.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPoker/Repository/CartaRepository.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPoker/Controllers/JuegoDePokerController.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPoker/Repository/UsuarioRepository.cs" />
+        <option value="$PROJECT_DIR$/SimulacionPokerTests/TestAlgoritmo/AlgoritmosTest.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +349,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="SimulacionPokerTests" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SimulacionPokerTests/SimulacionPokerTests.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SimuladorPokerTest" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SimuladorPokerTest/SimuladorPokerTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="TestProject1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -122,6 +394,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestProject1/TestProject1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="TestProject2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestProject2/TestProject2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -171,7 +461,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607310533518</updated>
       <workItem from="1607310539684" duration="34973000" />
-      <workItem from="1607408141875" duration="5046000" />
+      <workItem from="1607408141875" duration="24193000" />
     </task>
     <task id="LOCAL-00001" summary="version 1.4">
       <created>1607413792428</created>
@@ -213,101 +503,117 @@
     <option name="LAST_COMMIT_MESSAGE" value="version 1.4" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1607413394866">
+    <state width="482" height="464" key="DebuggerActiveHint" timestamp="1607470378293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413394866" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607360166084" />
-    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1607413394866">
+    <state width="482" height="464" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470378293" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1607470403287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413394866" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607360166084" />
-    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1607413394866">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403287" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607450847542" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1607470403287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413394866" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607360166084" />
-    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1607413394866">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403287" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607450847542" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1607470403287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413394866" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607360166084" />
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403287" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607450847542" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1607470403287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1607411722702">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403287" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607450847542" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722702" />
-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1607411722702">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722702" />
-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1607411722702">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722702" />
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1607411722704">
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1607470403288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722704" />
-    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403288" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1607411722703">
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722703" />
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1607411722704">
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722704" />
-    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1607411722704">
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1607470403290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722704" />
-    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1607411722704">
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403290" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722704" />
-    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1607411722704">
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1607470403289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607411722704" />
-    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1607413373156">
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403289" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1607470403290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413373156" />
-    <state x="670" y="210" key="RiderGenerateDialog" timestamp="1607362422165">
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607470403290" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1607454116331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="670" y="210" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607362422165" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607454116331" />
+    <state x="670" y="210" key="RiderGenerateDialog" timestamp="1607464913027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="210" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607464913027" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1607454667775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607454667775" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607413819549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607413819549" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1607465524107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607465524107" />
+    <state x="-1512" y="149" width="1648" height="717" maximized="true" key="dock-window-1" timestamp="1607460502780">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1512" y="149" width="1648" height="717" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607460502780" />
   </component>
 </project>

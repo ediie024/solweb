@@ -46,7 +46,7 @@ namespace SimulacionPoker.Controllers
             ViewBag.Jugador3 = jugador3;
             ViewBag.Jugador4 = jugador4;
             ViewBag.Jugador5 = jugador5;
-         
+            Ganadores(Nombre1, Nombre2, Nombre3, Nombre4, Nombre5);
             jugadores[0].Puntaje = puntaje(jugador1);
             jugadores[1].Puntaje = puntaje(jugador2);
             jugadores[2].Puntaje = puntaje(jugador3);
@@ -55,7 +55,7 @@ namespace SimulacionPoker.Controllers
             Console.WriteLine("Jugador ganador");
             int contador = 0;
             var ValorMaximoPuntaje = jugadores.Max(o => o.Puntaje);
-            var JugadoresGanadores = jugadores.Where(o => o.Puntaje == ValorMaximoPuntaje).ToList();
+            var JugadoresGanadores = _usuarioService.JugadorGanador(ValorMaximoPuntaje,jugadores);
             @ViewBag.JugadoresGanadores = JugadoresGanadores;
             if (JugadoresGanadores.Count>1)
             {
@@ -65,7 +65,7 @@ namespace SimulacionPoker.Controllers
             {
                 ViewBag.Mensaje = "Felicitaciones al unico ganador: ";
             }
- 
+            
             @ViewBag.Jugadores = jugadores;
             return View();
         }
@@ -100,6 +100,25 @@ namespace SimulacionPoker.Controllers
             var puntaje = _cartaService.Puntaje(mano);
             return puntaje;
            
+        }
+
+        public List<Usuario> Ganadores(string Nombre1,string Nombre2,string Nombre3,string Nombre4,string Nombre5)
+        {
+            List<string> nueva = new List<string>();
+            nueva.Add(Nombre1); nueva.Add(Nombre2); nueva.Add(Nombre3); nueva.Add(Nombre4); nueva.Add(Nombre5);
+            var jugadores = Jugadores(nueva);
+            
+            
+            var baraja = AsignarCartasJugadores();
+
+            var JugadoresConPuntaje = _usuarioService.JugadoresConPuntaje(baraja,jugadores);
+            
+            Console.WriteLine("Jugador ganador");
+            int contador = 0;
+            var ValorMaximoPuntaje = _cartaService.Puntajemaximo(jugadores);
+            var JugadoresGanadores = _usuarioService.JugadorGanador(ValorMaximoPuntaje,jugadores);
+            
+            return JugadoresGanadores;
         }
     }
 }

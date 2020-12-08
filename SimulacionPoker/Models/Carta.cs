@@ -7,5 +7,17 @@ namespace SimulacionPoker.Models
         public string tipoCarta { get; set; }
         
         public int IdUsuario { get; set; }
+
+        public Carta(int id, int numero, string tipoCarta, int idUsuario)
+        {
+            Id = id;
+            Numero = numero;
+            this.tipoCarta = tipoCarta;
+            IdUsuario = idUsuario;
+        }
+
+        public Carta()
+        {
+        }
     }
 }

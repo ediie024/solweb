@@ -7,7 +7,7 @@
     "outputPath": "D:\\Upn 2020-2\\Calidad\\ExamenFinal\\ExamenFinalCalidad\\SimulacionPoker\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "net50"
+      "netcoreapp5.0"
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,6 +26,12 @@
   },
   "frameworks": {
     "netcoreapp5.0": {
+      "dependencies": {
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

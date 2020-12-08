@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulacionPoker", "SimulacionPoker\SimulacionPoker.csproj", "{B954C536-CD5A-422C-953B-B414E59045F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulacionPokerTest", "SimulacionPokerTest\SimulacionPokerTest.csproj", "{CCD0E879-53CF-4EFD-93CC-5D37DF804E32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulacionPokerTests", "SimulacionPokerTests\SimulacionPokerTests.csproj", "{F4272ADE-481E-4C5F-B010-21F268F45D84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{B954C536-CD5A-422C-953B-B414E59045F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B954C536-CD5A-422C-953B-B414E59045F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B954C536-CD5A-422C-953B-B414E59045F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CCD0E879-53CF-4EFD-93CC-5D37DF804E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCD0E879-53CF-4EFD-93CC-5D37DF804E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCD0E879-53CF-4EFD-93CC-5D37DF804E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCD0E879-53CF-4EFD-93CC-5D37DF804E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4272ADE-481E-4C5F-B010-21F268F45D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4272ADE-481E-4C5F-B010-21F268F45D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4272ADE-481E-4C5F-B010-21F268F45D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4272ADE-481E-4C5F-B010-21F268F45D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

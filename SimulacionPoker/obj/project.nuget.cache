@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mcDfX44yZ9nYJ1BWhR0CoqGinJImc3jki2s/05o2e9vgJ7bowN1iDaHa6cHlBPTyc/qAhL4IXBoZvmWa4V+WWA==",
+  "dgSpecHash": "SyZoxM3wPuvpdkXXLYMBRoRTvTuQNERO5XEavQjrxNYEH/SIpeP0rfm9lQfMq0A35ZTiorL5QsItkvmtLF9VtQ==",
   "success": true,
   "projectFilePath": "D:\\Upn 2020-2\\Calidad\\ExamenFinal\\ExamenFinalCalidad\\SimulacionPoker\\SimulacionPoker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -40,3 +40,4 @@ D:\Upn 2020-2\Calidad\ExamenFinal\ExamenFinalCalidad\SimulacionPoker\obj\Debug\n
 D:\Upn 2020-2\Calidad\ExamenFinal\ExamenFinalCalidad\SimulacionPoker\obj\Debug\net5.0\SimulacionPoker.genruntimeconfig.cache
 D:\Upn 2020-2\Calidad\ExamenFinal\ExamenFinalCalidad\SimulacionPoker\obj\Debug\net5.0\SimulacionPoker.csproj.CopyComplete
 D:\Upn 2020-2\Calidad\ExamenFinal\ExamenFinalCalidad\SimulacionPoker\obj\Debug\net5.0\Razor\Views\JuegoDePoker\DetalleCartas.cshtml.g.cs
+D:\Upn 2020-2\Calidad\ExamenFinal\ExamenFinalCalidad\SimulacionPoker\bin\Debug\net5.0\nunit.framework.dll

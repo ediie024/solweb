@@ -31,7 +31,7 @@
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="net5.0" t="Include">
+            <e p="netcoreapp5.0" t="Include">
               <e p="SimulacionPoker.AssemblyInfo.cs" t="Include" />
               <e p="SimulacionPoker.RazorAssemblyInfo.cs" t="Include" />
             </e>
@@ -127,18 +127,19 @@
           </e>
         </e>
       </e>
-      <e p="SimulacionPokerTest" t="IncludeRecursive">
+      <e p="SimulacionPokerTests" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="SimulacionPokerTest.AssemblyInfo.cs" t="Include" />
+            <e p="netcoreapp5.0" t="Include">
+              <e p="SimulacionPokerTests.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
-        <e p="PruebasUnitarias" t="Include" />
-        <e p="SimulacionPokerTest.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
+        <e p="SimulacionPokerTests.csproj" t="IncludeRecursive" />
+        <e p="TestAlgoritmo" t="Include">
+          <e p="AlgoritmosTest.cs" t="Include" />
+        </e>
       </e>
     </e>
   </component>

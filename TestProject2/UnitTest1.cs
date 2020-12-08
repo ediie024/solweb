@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace SimulacionPokerTest
+namespace TestProject2
 {
     public class Tests
     {
